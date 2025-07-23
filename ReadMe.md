@@ -1,4 +1,4 @@
-Git Credential Manager for Mac and Linux
+My assets Git Credential Manager for Mac and Linux
 ========================================
 
 This project has been superceded by [Git Credential Manager Core](https://github.com/microsoft/Git-Credential-Manager-Core).
